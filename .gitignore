@@ -1,0 +1,26 @@
+# dependencies
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# env
+.env
+
+# models (downloaded at runtime)
+models/
+
+# macos
+.DS_Store
+
+# docs (internal, not for the repo)
+CLAUDE.md
+PLANNING.md
+DECISIONS.md
+
+# reference codebases (study material, not part of the project)
+reference/
