@@ -1,0 +1,10 @@
+faster-whisper
+sounddevice
+numpy
+mss
+Pillow
+ollama
+pyautogui
+pynput
+playwright
+python-dotenv
